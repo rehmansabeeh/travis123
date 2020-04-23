@@ -1,2 +1,2 @@
 language: shell 
-script: hash.py
+script: python hash.py
