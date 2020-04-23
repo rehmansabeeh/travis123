@@ -1,3 +1,3 @@
 # language: python # this works for Linux but is an error on macOS or Windows
 language: cpp # 'language: python' is an error on Travis CI Windows
-script: python hash.py
+script: g++ testing.cpp
