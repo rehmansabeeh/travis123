@@ -1,2 +1,2 @@
-language: shell 
-script: python test.py
+language: shell #the language we have to use
+script: python test.py #the script we have to run
