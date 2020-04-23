@@ -1,2 +1,2 @@
-# language: python # this works for Linux but is an error on macOS or Windows
-language: cpp # 'language: python' is an error on Travis CI Windows
+language: shell 
+script: hash.py
