@@ -45,18 +45,18 @@ def printtable(table_1,table_2):
 	print("TABLE 1")	
 	for i in range(len(table_1)):
 		if(table_1[i]==-1):
-			print("empty",end=" ")
+			print("empty")
 		else:
-			print(table_1[i],end=" ")
+			print(table_1[i])
 	
 	print(" ")
 	print("TABLE 2")
 	
 	for i in range(len(table_2)):
 		if(table_2[i]==-1):
-			print("empty",end=" ")
+			print("empty")
 		else:
-			print(table_2[i],end=" ")	
+			print(table_2[i])	
 
 	print(" ")			
 
