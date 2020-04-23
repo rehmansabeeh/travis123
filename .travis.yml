@@ -1,3 +1,3 @@
 # language: python # this works for Linux but is an error on macOS or Windows
 language: shell # 'language: python' is an error on Travis CI Windows
-script: python my_app.py
+script: python hash.py
